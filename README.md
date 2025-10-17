@@ -30,9 +30,9 @@
 
 ### 🚀 Projects (Coming Soon)
 
-- 🔥 **Modding Tools** — utility tools for different games.  
-- ⚙️ **Automation Scripts** — small C# / JS tools for workflow optimization.  
-- 💬 **Discord Integrations** — bots and utilities for Discord communities.
+- 🔥 **Valorant Swapper [SOON]** — utility tools for have client-side custom Valorant skin.  
+- ⚙️ **Valorant Skin Viewer [BETA]** — utility for view skin with Valorant API for the swapper, for fetching (Desktop App).  
+- 💬 **SaphyreFN** — bots and utilities for Fortnite, a lobby bot with all cosmetics with web app and database creator.
 
 ---
 
