@@ -1,62 +1,57 @@
-<!-- 💻 LexoFN Modding GitHub Profile -->
+<!-- 🌐 GitHub Profile: swayze-team -->
 
-<h1 align="center">👋 Yo, je suis LexoFN Modding</h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#8be9fd;">Swayze</span> — Modding Enthusiast & Developer</h1>
 
 <p align="center">
-  🔧 Développeur passionné par le <strong>modding</strong> et la création de projets cools.<br>
-  💻 Je code principalement en <strong>JavaScript</strong>, <strong>C++</strong> et <strong>C#</strong>.<br>
-  🚀 Je ne suis pas encore expert, mais j'apprends vite et j'aime expérimenter !
+  💻 I'm a <strong>developer</strong> exploring the world of <strong>modding</strong> and creative coding.<br>
+  🔧 I code mainly in <strong>JavaScript</strong>, <strong>C++</strong>, and <strong>C#</strong>.<br>
+  🚀 Always learning, experimenting, and building new projects!
 </p>
 
 ---
 
-### 🧠 Langages et outils que j’utilise
+### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,discord,bots,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css,vscode,github,discord,bots" alt="skills" />
 </p>
 
 ---
 
-### 📊 Mes statistiques GitHub
+### ⚙️ About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LexoFN-Modding&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LexoFN-Modding&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexoFN-Modding&layout=compact&theme=tokyonight" height="150" />
-</p>
+- 🎮 Passionate about **game modding** and custom tools.  
+- 💡 I love experimenting with code to create unique experiences.  
+- 🧩 Currently working on **modding-related projects** and automation tools.  
+- 🌱 Always improving my skills in programming and design.  
+- 🕹️ Goal: Build useful, fun, and powerful open-source projects.
 
 ---
 
-### 🧩 Mes projets
+### 🚀 Projects (Coming Soon)
 
-- 🔥 **Projet 1** : Système de modding (à venir)
-- 🧰 **Projet 2** : Outil en C# / JS pour automatiser certaines tâches
-- 🎮 **Projet 3** : Expérimentations autour du modding et du reverse engineering
-
-*(Je partagerai bientôt plus de projets ici 👀)*
+- 🔥 **Modding Tools** — utility tools for different games.  
+- ⚙️ **Automation Scripts** — small C# / JS tools for workflow optimization.  
+- 💬 **Discord Integrations** — bots and utilities for Discord communities.
 
 ---
 
-### 💬 Rejoins ma communauté
+### 💬 Join My Community
 
 <p align="center">
   <a href="https://discord.gg/eoz">
-    <img src="https://img.shields.io/badge/Rejoindre%20mon%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
 ---
 
-### ⚡ Fun fact
+### ✨ Fun Quote
 
-> "Le code, c’est comme la magie : quand tu comprends comment ça marche, tout devient possible." ✨
+> “Coding is like magic — once you understand how it works, you can create anything.”
 
 ---
 
 <p align="center">
-  🌐 <a href="https://github.com/LexoFN-Modding">github.com/LexoFN-Modding</a>
+  🌐 <a href="https://github.com/swayze-team">github.com/swayze-team</a>
 </p>
